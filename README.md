@@ -30,6 +30,6 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-!["Output"](/CIRCULATE.png)
+!["Output"](./circulate.png)
 ## Result:
 Thus circulating n variabes using function concept is sucessfully excecuted.
